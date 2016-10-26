@@ -1,5 +1,5 @@
 # React-profiles-app
-This is an app that i will use to teach about React on my personal website - http://matijakomorcec.com
+This is an app that i will use as a showcase about React on my personal website - http://matijakomorcec.com
 
 ## Lesson 1
 Introduction to React, state, props
